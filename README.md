@@ -1,7 +1,7 @@
 # primer-repo
-<<<<<<< HEAD
-Soy estudiante en prácticas de ASIR
+
+Soy estudiante en prácticas de smr
 =======
 
 hola como estan :)
->>>>>>> 518e47c (holaaaa)
+(holaaaa)
